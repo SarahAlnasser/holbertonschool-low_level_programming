@@ -7,3 +7,4 @@ Low-level programming projects in C for Holberton School.
 - [variables_if_else_while](./variables_if_else_while): variables, if/else, and while loops
 - [functions_nested_loops](./functions_nested_loops): functions, header files, and nested loops
 - [intro_debugging](./intro_debugging): tracing and fixing logic bugs
+- [more_functions_nested_loops](./more_functions_nested_loops): more functions and nested loops
