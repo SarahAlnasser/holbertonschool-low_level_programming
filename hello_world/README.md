@@ -10,3 +10,4 @@ First steps in C: the four stages of compilation (preprocessor, compiler, assemb
 | 2-assembler | Generates the assembly code of the C file in $CFILE into a .s file |
 | 3-name | Compiles and links the C file in $CFILE into an executable named cisfun |
 | 4-puts.c | Prints a quote using puts |
+| 5-printf.c | Prints a sentence using printf |
