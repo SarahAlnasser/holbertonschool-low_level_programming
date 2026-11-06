@@ -19,3 +19,8 @@ Writing functions, header files, and nested loops in C.
 | 9-times_table.c | Prints the 9 times table |
 | 10-add.c | Adds two integers |
 | 11-print_to_98.c | Prints all integers from n to 98 |
+| 100-times_table.c | Prints the n times table, starting with 0 |
+| 101-natural.c | Prints the sum of all multiples of 3 or 5 below 1024 |
+| 102-fibonacci.c | Prints the first 50 Fibonacci numbers |
+| 103-fibonacci.c | Prints the sum of even Fibonacci terms up to 4,000,000 |
+| 104-fibonacci.c | Prints the first 98 Fibonacci numbers without long long |
