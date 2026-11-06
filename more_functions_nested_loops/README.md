@@ -18,3 +18,5 @@ More practice with functions, header files, and nested loops in C.
 | 8-print_square.c | Prints a square of # |
 | 9-fizz_buzz.c | Prints the Fizz-Buzz sequence from 1 to 100 |
 | 10-print_triangle.c | Prints a right-aligned triangle of # |
+| 100-prime_factor.c | Prints the largest prime factor of 612852475143 |
+| 101-print_number.c | Prints an integer using only _putchar |
