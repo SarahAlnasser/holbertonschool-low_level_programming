@@ -9,3 +9,4 @@ Variables, arithmetic operators, if/else conditions, and while loops in C.
 | 1-last_digit.c | Prints the last digit of a random number and compares it to 5 and 0 |
 | 2-print_alphabet.c | Prints the lowercase alphabet using putchar |
 | 3-print_alphabets.c | Prints the alphabet in lowercase then uppercase |
+| 4-print_alphabt.c | Prints the lowercase alphabet except q and e |
