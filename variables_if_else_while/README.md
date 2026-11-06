@@ -10,3 +10,4 @@ Variables, arithmetic operators, if/else conditions, and while loops in C.
 | 2-print_alphabet.c | Prints the lowercase alphabet using putchar |
 | 3-print_alphabets.c | Prints the alphabet in lowercase then uppercase |
 | 4-print_alphabt.c | Prints the lowercase alphabet except q and e |
+| 5-print_numbers.c | Prints all single digit numbers from 0 to 9 |
