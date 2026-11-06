@@ -11,3 +11,11 @@ Variables, arithmetic operators, if/else conditions, and while loops in C.
 | 3-print_alphabets.c | Prints the alphabet in lowercase then uppercase |
 | 4-print_alphabt.c | Prints the lowercase alphabet except q and e |
 | 5-print_numbers.c | Prints all single digit numbers from 0 to 9 |
+| 6-print_numberz.c | Prints 0 to 9 using putchar without char variables |
+| 7-print_tebahpla.c | Prints the lowercase alphabet in reverse |
+| 8-print_base16.c | Prints all base 16 digits in lowercase |
+| 9-print_comb.c | Prints single digit numbers separated by a comma and a space |
+| 6-print_numberz.c | Prints 0 to 9 using putchar without char variables |
+| 7-print_tebahpla.c | Prints the lowercase alphabet in reverse |
+| 8-print_base16.c | Prints all base 16 digits in lowercase |
+| 9-print_comb.c | Prints single digit numbers separated by a comma and a space |
