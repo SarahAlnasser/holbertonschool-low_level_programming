@@ -7,3 +7,4 @@ First steps in C: the four stages of compilation (preprocessor, compiler, assemb
 |------|-------------|
 | 0-preprocessor | Runs the C file in $CFILE through the preprocessor and saves the result in `c` |
 | 1-compiler | Compiles the C file in $CFILE into an object file without linking |
+| 2-assembler | Generates the assembly code of the C file in $CFILE into a .s file |
