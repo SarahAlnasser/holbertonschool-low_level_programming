@@ -19,3 +19,6 @@ Variables, arithmetic operators, if/else conditions, and while loops in C.
 | 7-print_tebahpla.c | Prints the lowercase alphabet in reverse |
 | 8-print_base16.c | Prints all base 16 digits in lowercase |
 | 9-print_comb.c | Prints single digit numbers separated by a comma and a space |
+| 100-print_comb3.c | Prints all different combinations of two digits |
+| 101-print_comb4.c | Prints all different combinations of three digits |
+| 102-print_comb5.c | Prints all combinations of two two-digit numbers |
