@@ -4,3 +4,4 @@ Low-level programming projects in C for Holberton School.
 
 ## Projects
 - [hello_world](./hello_world): the C compilation process and first C programs
+- [variables_if_else_while](./variables_if_else_while): variables, if/else, and while loops
